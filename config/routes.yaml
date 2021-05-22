@@ -1,6 +1,3 @@
-index:
-    path: /
-    controller: App\Controller\IntroController::index
-random:
-    path: /random
-    controller: App\Controller\RandomNumberController::getRandom
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
